@@ -18,7 +18,7 @@ require_once 'include/func.php';
     <section id="about" class="about">
       <div class="container">
   <div class="section-title aos-init aos-animate" data-aos="fade-up">
-          <h2>สื่อประชาสัมพัน</h2>
+          <h2>สื่อประชาสัมพันนะจ๊ะ</h2>
           <p>Check out our beautifull portfolio</p>
         </div>
         <div class="row justify-content-between">
